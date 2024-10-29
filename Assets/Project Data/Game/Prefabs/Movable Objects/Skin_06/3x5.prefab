@@ -713,15 +713,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4000013876670220, guid: 117ac9be9c6ab43b3966020efb24bca2, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.9
+      value: 0.84069836
       objectReference: {fileID: 0}
     - target: {fileID: 4000013876670220, guid: 117ac9be9c6ab43b3966020efb24bca2, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.9
+      value: 0.84069836
       objectReference: {fileID: 0}
     - target: {fileID: 4000013876670220, guid: 117ac9be9c6ab43b3966020efb24bca2, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.9
+      value: 0.84069836
       objectReference: {fileID: 0}
     - target: {fileID: 4000013876670220, guid: 117ac9be9c6ab43b3966020efb24bca2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -766,6 +766,11 @@ PrefabInstance:
     - target: {fileID: 4000013876670220, guid: 117ac9be9c6ab43b3966020efb24bca2, type: 3}
       propertyPath: m_ConstrainProportionsScale
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 64000012265059588, guid: 117ac9be9c6ab43b3966020efb24bca2,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

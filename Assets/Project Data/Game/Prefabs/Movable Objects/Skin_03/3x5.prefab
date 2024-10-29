@@ -447,6 +447,10 @@ PrefabInstance:
       value: Car_19A
       objectReference: {fileID: 0}
     - target: {fileID: 4348093783413710, guid: 4bb99b07d9eaf43a49d76498f84b0007, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.9501734
+      objectReference: {fileID: 0}
+    - target: {fileID: 4348093783413710, guid: 4bb99b07d9eaf43a49d76498f84b0007, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
@@ -484,6 +488,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4348093783413710, guid: 4bb99b07d9eaf43a49d76498f84b0007, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 64897043909237182, guid: 4bb99b07d9eaf43a49d76498f84b0007,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
